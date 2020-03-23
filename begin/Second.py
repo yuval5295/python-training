@@ -1,4 +1,8 @@
 if "__main__" == __name__:
-    y=7
-    x=9
-    z=x+y
+    asael=90
+    yuval=80
+
+    if yuval < asael:
+        print('asael Won!')
+    else:
+        print('yuval won')
